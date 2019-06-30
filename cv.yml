@@ -1,5 +1,3 @@
-name: Anton
-surename: Khotetovskiy
 phone_number: +375256800712
 email: ant1105on@gmail.com
 age: 27
@@ -13,7 +11,7 @@ dbms: MySQL, PostgreSQL, MongoDB
 version_control_sistem: Git(Github)
 hours_per_day: 8
 goal: Get job as a Ruby(Ruby on Rails) Developer
-have_a_job: no, i have not
-laptop: yes, windows
+have_a_job: "no, i have not"
+laptop: "yes, windows"
 english: documentation
 full_name: Anton Khotetovskiy
